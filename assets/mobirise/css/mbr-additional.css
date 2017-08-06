@@ -793,13 +793,13 @@ pre {
   border-radius: 100px !important;
 }
 .cid-qrwQQznvm0 .navbar {
-  background: #ffffff;
+  background: #55b4d4;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qrwQQznvm0 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #55b4d4;
 }
 .cid-qrwQQznvm0 a {
   font-style: normal;
@@ -878,7 +878,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qrwQQznvm0 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #55b4d4;
   display: none;
   position: absolute;
   min-width: 5rem;
