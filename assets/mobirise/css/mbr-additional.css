@@ -793,13 +793,13 @@ pre {
   border-radius: 100px !important;
 }
 .cid-qrwQQznvm0 .navbar {
-  background: #55b4d4;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qrwQQznvm0 .navbar-dropdown.bg-color.transparent.opened {
-  background: #55b4d4;
+  background: #ffffff;
 }
 .cid-qrwQQznvm0 a {
   font-style: normal;
@@ -878,7 +878,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qrwQQznvm0 .dropdown .dropdown-menu {
-  background: #55b4d4;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -949,7 +949,7 @@ pre {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #232323;
 }
 .cid-qrwQQznvm0 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
